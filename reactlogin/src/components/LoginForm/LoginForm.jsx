@@ -22,7 +22,7 @@ const LoginForm = () => {
 
         <div className="esqueceu-senha">
           <label><input type="checkbox" />Salvar a senha</label>
-          <a href="#">Esqueci a senha</a>
+          <a href="#">Esqueceu a senha?</a>
         </div>
 
         <button type='submit'>Login</button>
